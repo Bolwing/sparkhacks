@@ -6,7 +6,9 @@ Kenneth,
 Ahmad,
 Vincenzo
 
-WARNING WE HAVE MET OUR QUOTA
+WARNING WE HAVE MET OUR QUOTA WE CANNOT ADD ON TO ANY MORE SCHEDULES
+
+WORKS ON ALL MACHINES
 
 <b>Project Description:</b> <br/>
 SimplyCalendar is a Python application designed to help users easily import their class schedules from an HTML file and export class information.<br/> 
