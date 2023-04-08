@@ -15,8 +15,8 @@ We decided to build this project to simplify the process of adding class schedul
 <b>Key Features:</b> <br />
 Automatically parses class information from HTML file<br/>
 Extracts relevant class details, such as class name, day, and time<br/>
-Exports class information in a format compatible with Google Calendar automatically<br/>
-Streamlines the process of adding classes to a calendar<br/>
+Exports class information in a format compatible with Google Calendar<br/>
+Streamlines the process of adding classes to a calendar for students<br/>
 
 <b>Implementation Details:</b> <br />
 SimplyCalendar is built using Python for parsing HTML files. <br/>
@@ -30,8 +30,7 @@ Run the program with your HTML file in the same directory<br/>
 The program will output class information in a format compatible with Google Calendar<br/>
 
 <b>Future Improvements:</b> <br />
-Support for additional calendar applications<br/>
-Automatic integration with calendar APIs for seamless import<br/>
+Automatic integration with multiple calendar APIs for seamless import options<br/>
 Enhanced error handling and input validation<br/>
 Support for extracting additional class information, such as location and instructor<br/>
-Support images in addition to html file to export class information<br/>
+Support images in addition to html file to export class information to Calendar<br/>
