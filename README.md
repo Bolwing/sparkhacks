@@ -6,6 +6,8 @@ Kenneth,
 Ahmad,
 Vincenzo
 
+WARNING WE HAVE MET OUR QUOTA
+
 <b>Project Description:</b> <br/>
 SimplyCalendar is a Python application designed to help users easily import their class schedules from an HTML file and export class information.<br/> 
 This includes the class name, day, and time and automatically exports it to the student's Google Calendar.<br/> 
